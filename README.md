@@ -1,18 +1,31 @@
-## Getting Started
+# 🌐 Social Platform – Progetto Database
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**MySQL** • **SQL** • **Diagramma ER**
 
-## Folder Structure
+> Progetto focalizzato sulla progettazione e implementazione di un database relazionale per una piattaforma social, con l'obiettivo di esercitarsi nella modellazione dei dati e nella gestione delle transazioni.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 Contenuto del progetto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 🗂️ Creazione e popolamento del database
+- 🧩 Diagramma ER che rappresenta la struttura del database
+- 🔄 Transazioni per la gestione delle operazioni CRUD
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ Stack Tecnologico
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Database:** MySQL
+- **Linguaggio:** SQL
+- **Strumenti:** Diagramma ER per la progettazione del database
+
+---
+
+📌 Note
+Questo progetto è stato sviluppato a scopo didattico per esercitarsi nella progettazione e implementazione di un database relazionale.
+Obiettivi principali:
+
+Modellare entità e relazioni per una piattaforma social
+
+Gestire operazioni CRUD tramite transazioni SQL
