@@ -1,5 +1,7 @@
 # 🌐 Social Platform – Progetto Database
 
+📅 Ultimo aggiornamento 09/04/2025
+
 **MySQL** • **SQL** • **Diagramma ER**
 
 > Progetto focalizzato sulla progettazione e implementazione di un database relazionale per una piattaforma social, con l'obiettivo di esercitarsi nella modellazione dei dati e nella gestione delle transazioni.
